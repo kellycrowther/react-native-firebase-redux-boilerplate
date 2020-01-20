@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218748412892",
+    "firebase_url": "https://bbrapp-38087.firebaseio.com",
+    "project_id": "bbrapp-38087",
+    "storage_bucket": "bbrapp-38087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218748412892:android:3d33d811a61d4945b8e519",
+        "android_client_info": {
+          "package_name": "com.hustletechnology.bbrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218748412892-bcepap2qfha6pefe8rtq7bt2sl0pah79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hustletechnology.bbrapp",
+            "certificate_hash": "8c6fc319f8fc41e5717eb7fef147f1c220a80ee8"
+          }
+        },
+        {
+          "client_id": "218748412892-60bi3j909r8dk9ulkpsccp023lbeolf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHDR8wJwyPKXT7uKcXP_ZKxSq3PVCKGD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218748412892-60bi3j909r8dk9ulkpsccp023lbeolf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218748412892-15ho9gb6dufal3ksi2epqootvuh8sli9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hustletechnology.bbrapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

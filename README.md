@@ -9,12 +9,11 @@
 
 ---
 
-A basic react native app with [`react-native-firebase`](https://github.com/invertase/react-native-firebase) pre-integrated  to get you started quickly.
+A basic react native app with [`react-native-firebase`](https://github.com/invertase/react-native-firebase) pre-integrated to get you started quickly.
 
 ---
 
 > **DEPRECATED**: This is for RNFB v5 only. For v6 onwards please follow the [new projects guide](https://invertase.io/oss/react-native-firebase/quick-start/new-project).
-
 
 ### Getting Started
 
@@ -64,19 +63,16 @@ If all has gone well you'll see an initial screen like the one below.
 
 ![preview](https://i.imgur.com/4lG4HuS.png)
 
-
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute]](https://github.com/invertase/react-native-firebase/blob/master/CONTRIBUTING.md).
 <a href="graphs/contributors"><img src="https://opencollective.com/react-native-firebase/contributors.svg?width=890" /></a>
-
 
 ## Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/react-native-firebase#backer)]
 
 <a href="https://opencollective.com/react-native-firebase#backers" target="_blank"><img src="https://opencollective.com/react-native-firebase/backers.svg?width=890"></a>
-
 
 ## Sponsors
 
@@ -93,8 +89,12 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/react-native-firebase/sponsor/8/website" target="_blank"><img src="https://opencollective.com/react-native-firebase/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/react-native-firebase/sponsor/9/website" target="_blank"><img src="https://opencollective.com/react-native-firebase/sponsor/9/avatar.svg"></a>
 
-
-
 ### License
 
 - See [LICENSE](/LICENSE)
+
+### Package Name
+
+Project name: BBRApp
+Company name: hustletechnology
+Package name: com.hustletechnology.bbrapp
